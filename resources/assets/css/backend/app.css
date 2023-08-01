@@ -1,0 +1,23 @@
+.m-card-profile .m-card-profile__details .m-card-profile__profile {
+    display: block;
+    width: 80px;
+    margin: 0 auto;
+    padding-top: 10px;
+    color: #7b7e8a;
+}
+
+.m-card-profile .m-card-profile__details .m-card-profile__profile:hover {
+    color: #6f727d;
+}
+
+.m-widget5 .m-widget5__item .m-widget5__content .m-widget5__pic figure img {
+    width: 11.6rem;
+}
+
+.profile_image {
+    max-width: 100%;
+}
+
+.image-container img {
+    max-width: 100%
+}
